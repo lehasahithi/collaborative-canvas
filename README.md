@@ -124,6 +124,7 @@ npm run dev	Run with nodemon (development mode)
 ### 🧑‍💻 Author
 
 Lehasahithi Mamidi
+-
 Amrita Vishwa Vidyapeetham, Bangalore - 560035
 
 ### 🏁 Submission Checklist
