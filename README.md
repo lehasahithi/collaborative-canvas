@@ -34,22 +34,7 @@ This project demonstrates **real-time data synchronization**, **canvas rendering
 | **Real-time Communication** | WebSockets |
 | **Rendering** | HTML5 Canvas API |
 
----
 
-## 🗂️ **Folder Structure**
-
-collaborative-canvas/
-├── client/
-│ ├── index.html # UI and Canvas
-│ ├── style.css # Styling and layout
-│ ├── canvas.js # Drawing logic and rendering
-│ ├── websocket.js # WebSocket client handling
-│ └── main.js # UI bindings and tool actions
-├── server/
-│ └── server.js # Node.js + Socket.io backend
-├── package.json # NPM dependencies and scripts
-├── README.md # Documentation (this file)
-└── ARCHITECTURE.md # Technical architecture explanation
 
 
 ---
